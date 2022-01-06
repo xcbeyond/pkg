@@ -1,2 +1,3 @@
 # pkg
-Common packages used by other project.
+
+Common packages used by other golang project.
