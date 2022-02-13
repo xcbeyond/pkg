@@ -1,0 +1,6 @@
+{
+   "ok": "Success",
+   "1001": "name is not empty.",
+   "hello": "hello!",
+   "helloWithName": "hello, {{ .name}}!"
+}
